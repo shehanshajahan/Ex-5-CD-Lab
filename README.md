@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-# NAME:R.Akshaya
-# reg.no:212223220005
+# NAME: Shehan Shajahan
+# Reg.no: 212223240154
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 
 # Aim:
